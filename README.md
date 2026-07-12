@@ -105,27 +105,14 @@ DIVIDE(
 
 ---
 
-## <img src="https://img.icons8.com/?size=40&id=VV3ixFIclAcj&format=png&color=000000" align="center"/> Requirements / Requisitos
-
-```
-Power BI Desktop (free) — latest version
-Download: https://powerbi.microsoft.com/desktop
-```
-
-> Open the `.pbix` file directly in Power BI Desktop.
-> No additional data sources needed. Data is embedded.
-> Abrir el archivo `.pbix` directamente en Power BI Desktop.
-> No se requieren fuentes de datos adicionales. Datos embebidos.
-
----
-
 ## <img src="https://img.icons8.com/?size=40&id=PhymLYNNjf3I&format=png&color=000000" align="center"/> Repository Structure / Estructura del Repositorio
 
 ```
 powerbi-retail-sales-dashboard/
 ├── screenshots/                                        ← Dashboard previews
 ├── Power BI Dashboard - Retail Sales Analysis.pbix     ← Power BI file
-└── README.md
+├── README.md
+└── requirements.txt
 ```
 
 ---
