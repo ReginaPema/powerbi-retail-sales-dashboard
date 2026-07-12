@@ -1,0 +1,5 @@
+Power BI Desktop (free) — latest version
+Download: https://powerbi.microsoft.com/desktop
+
+Open the .pbix file directly in Power BI Desktop. No additional data sources needed. Data is embedded. 
+Abrir el archivo .pbix directamente en Power BI Desktop. No se requieren fuentes de datos adicionales. Datos embebidos.
